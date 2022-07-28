@@ -1,6 +1,6 @@
 # A Personalized Zero-Shot ECG Arrhythmia Monitoring System
 
-### [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2207.07089)
+### [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2207.07089) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-personalized-zero-shot-ecg-arrhythmia/arrhythmia-detection-on-mit-bih-arrhythmia)](https://paperswithcode.com/sota/arrhythmia-detection-on-mit-bih-arrhythmia?p=a-personalized-zero-shot-ecg-arrhythmia)
 
 <img src='imgs/DAtp.gif' width=100%/>
 
